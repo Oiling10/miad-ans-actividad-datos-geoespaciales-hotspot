@@ -21,7 +21,7 @@ Bogotá qué procedimiento adoptar y qué aprendizajes son transferibles entre c
 miad-ans-actividad-datos-geoespaciales-hotspot/
 ├── data/ # Datos de entrada
 │ ├── Chicago_delitos_verano_2019.csv
-│ ├── Areas_comunitarias_Chicago/ # Shapefile de las 77 áreas comunitarias
+│ ├── Areas_comunitarias_Chicago.zip # Shapefile de las 77 áreas comunitarias
 │ └── comercio_chicago.gpkg # Uso comercial del suelo (descargado de OSM)
 ├── output/ # Figuras generadas para la presentación
 ├── main.ipynb # Cuaderno de análisis
