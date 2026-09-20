@@ -1,0 +1,28 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Datos pesados de pyrosm (se descargan solos al correr)
+*.osm.pbf
+*.pbf
+
+# Cache de pyrosm
+.cache/
